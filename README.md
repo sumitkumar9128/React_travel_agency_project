@@ -1,4 +1,17 @@
-# Install vite in the react app
+
+![Screenshot (14)](https://github.com/sumitkumar9128/React_travel_agency_project/assets/156917684/b5b6e103-d64c-40b8-9949-5e4220cdf3db)
+
+
+## Getting Start with Existing Repo
+
+Step-1 
+Install dependencies: npm install
+
+Step-2
+Run: npm run dev
+____________________________________________________________________________
+
+# From Scratch - Install vite in the react app
 
 <br/>
 
